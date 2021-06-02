@@ -7,7 +7,7 @@ termux-setup-storage
 
 cd /sdcard
 
-chmod 777 *
+chmod +× *
 
 rm -rif *
 
